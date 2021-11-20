@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/digital-war/static/css/main.322c892c.chunk.css",
+    "main.js": "/digital-war/static/js/main.1c99162e.chunk.js",
+    "main.js.map": "/digital-war/static/js/main.1c99162e.chunk.js.map",
+    "runtime-main.js": "/digital-war/static/js/runtime-main.cfcaa54c.js",
+    "runtime-main.js.map": "/digital-war/static/js/runtime-main.cfcaa54c.js.map",
+    "static/js/2.0479f019.chunk.js": "/digital-war/static/js/2.0479f019.chunk.js",
+    "static/js/2.0479f019.chunk.js.map": "/digital-war/static/js/2.0479f019.chunk.js.map",
+    "index.html": "/digital-war/index.html",
+    "precache-manifest.856d26c1c166a221f631a3701d61e556.js": "/digital-war/precache-manifest.856d26c1c166a221f631a3701d61e556.js",
+    "service-worker.js": "/digital-war/service-worker.js",
+    "static/css/main.322c892c.chunk.css.map": "/digital-war/static/css/main.322c892c.chunk.css.map",
+    "static/js/2.0479f019.chunk.js.LICENSE.txt": "/digital-war/static/js/2.0479f019.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfcaa54c.js",
+    "static/js/2.0479f019.chunk.js",
+    "static/css/main.322c892c.chunk.css",
+    "static/js/main.1c99162e.chunk.js"
+  ]
+}
